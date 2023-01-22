@@ -2,4 +2,5 @@
 Deforestation Exploration Solution SQL Project
 Report  into Global Deforestation, 1990 to 2016.
 
-Analysis of forest loss trends by region, emphasizing countries with the greatest loss.
+Analyzed forest loss trends by region around the globe, emphasizing countries experiencing significant reductions in forest area.
+
